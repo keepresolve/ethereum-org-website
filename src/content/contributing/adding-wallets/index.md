@@ -2,7 +2,6 @@
 title: Adding wallets
 description: The policy we use when adding a wallet to ethereum.org
 lang: en
-sidebar: true
 ---
 
 # Adding wallets {#adding-wallets}
@@ -15,7 +14,6 @@ Anyone is free to suggest a new wallet. Wallets are currently listed on:
 
 - [ethereum.org/wallets/find-wallet/](/wallets/find-wallet/)
 - [ethereum.org/wallets/](/wallets/)
-- [ethereum.org/get-eth/](/get-eth/)
 
 Wallets are rapidly changing in Ethereum. We've tried to create a fair framework for consideration on ethereum.org but the listing criteria will change and evolve over time.
 
@@ -49,7 +47,7 @@ Wallets are rapidly changing in Ethereum. We've tried to create a fair framework
 - **ERC-20 support** - your wallet allows users to import ERC-20 token contracts, or automatically queries and displays ERC-20 tokens.
 - **EIP-1559 (type 2) transactions** - your wallet supports EIP-1559 (type 2) transactions.
 - **Buy crypto** - your wallet supports users directly purchasing and onboarding to crypto.
-- **Withdraw crypto** - your wallet supports users withdrawing directly to card or a bank account.
+- **Sell for fiat** - your wallet supports users selling and withdrawing to fiat directly to card or a bank account.
 - **Multisig** - your wallet supports multiple signatures to sign a transaction.
 - **Social recovery** - your wallet supports guardians and a user can recover their wallet if they lose their seed phrase using these guardians.
 - **Dedicated support team** - your wallet has a dedicated support team where users can go to when experiencing issues.
@@ -59,7 +57,7 @@ Wallets are rapidly changing in Ethereum. We've tried to create a fair framework
 
 If you want to add a wallet to ethereum.org, create an issue on GitHub.
 
-<ButtonLink to="https://github.com/ethereum/ethereum-org-website/blob/dev/.github/ISSUE_TEMPLATE/suggest_wallet.yaml">
+<ButtonLink to="https://github.com/ethereum/ethereum-org-website/issues/new?assignees=&labels=wallet+%3Apurse%3A&template=suggest_wallet.yaml">
   Create an issue
 </ButtonLink>
 
@@ -70,7 +68,7 @@ As is the fluid nature of Ethereum, teams and products come and go and innovatio
 - ensure that all wallets and dapps listed still fulfil our criteria
 - verify there aren't products that have been suggested that meet more of our criteria than the ones currently listed
 
-Ethereum.org is maintained by the open source community & we rely on the community to help keep this up to date. If you notice any information about listed wallets that needs to be updated, please [open an issue](https://github.com/ethereum/ethereum-org-website/blob/dev/.github/ISSUE_TEMPLATE/suggest_wallet.yaml) or [pull request](https://github.com/ethereum/ethereum-org-website/pulls)!
+Ethereum.org is maintained by the open source community & we rely on the community to help keep this up to date. If you notice any information about listed wallets that needs to be updated, please [open an issue](https://github.com/ethereum/ethereum-org-website/issues/new?assignees=&labels=wallet+%3Apurse%3A&template=suggest_wallet.yaml) or [pull request](https://github.com/ethereum/ethereum-org-website/pulls)!
 
 ## Terms of use {#terms-of-use}
 

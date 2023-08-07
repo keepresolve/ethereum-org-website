@@ -4,7 +4,6 @@ description: What is decentralized identity, and why does it matter?
 lang: en
 template: use-cases
 emoji: ":id:"
-sidebar: true
 sidebarDepth: 2
 image: ../../assets/eth-gif-cat.png
 summaryPoint1: Traditional identity systems have centralized the issuance, maintenance and control of your identifiers.
@@ -18,7 +17,7 @@ However, traditional identity management systems have long relied on centralized
 
 To solve these problems, we have decentralized identity systems built on public blockchains like Ethereum. Decentralized identity allows individuals to manage their identity-related information. With decentralized identity solutions, _you_ can create identifiers and claim and hold your attestations without relying on central authorities, like service providers or governments.
 
-## What is identity {#what-is-identity}
+## What is identity? {#what-is-identity}
 
 Identity means an individual's sense of self, defined by unique characteristics. Identity refers to being an _individual_, i.e., a distinct human entity. Identity could also refer to other non-human entities, such as an organization or authority.
 
@@ -132,7 +131,7 @@ Decentralized identity has many potential use-cases:
 
 ### 1. Universal logins {#universal-dapp-logins}
 
-Decentralized identity can help replace password-based logins with [decentralized authentication](https://www.ibm.com/blogs/blockchain/2018/10/decentralized-identity-an-alternative-to-password-based-authentication/). Service providers can can issue attestations to users, which can be stored in an Ethereum wallet. An example attestation would be an [NFT](/nft/) granting the holder access to an online community.
+Decentralized identity can help replace password-based logins with [decentralized authentication](https://www.ibm.com/blogs/blockchain/2018/10/decentralized-identity-an-alternative-to-password-based-authentication/). Service providers can issue attestations to users, which can be stored in an Ethereum wallet. An example attestation would be an [NFT](/nft/) granting the holder access to an online community.
 
 A [Sign-In with Ethereum](https://login.xyz/) function would then enable servers to confirm the user's Ethereum account and fetch the required attestation from their account address. This means users can access platforms and websites without having to memorize long passwords and improves the online experience for users.
 
@@ -158,6 +157,7 @@ There are many ambitious projects using Ethereum as a foundation for decentraliz
 
 - **[Ethereum Name Service (ENS)](https://ens.domains/)** - _A decentralized naming system for on-chain, machine-readable identifiers, like, Ethereum wallet addresses, content hashes, and metadata._
 - **[SpruceID](https://www.spruceid.com/)** - _A decentralized identity project which allows users to control digital identity with Ethereum accounts and ENS profiles instead of relying on third-party services._
+- **[Ethereum Attestation Service (EAS)](https://attest.sh/)** - _A decentralized ledger/protocol for making on-chain or off-chain attestations about anything._
 - **[Proof of Humanity](https://www.proofofhumanity.id)** - _Proof of Humanity (or PoH) is a social identity verification system built on Ethereum._
 - **[BrightID](https://www.brightid.org/)** - _A decentralized, open-source social identity network seeking to reform identity verification through the creation and analysis of a social graph._
 - **[Proof-of-personhood Passport](https://proofofpersonhood.com/)** - _A decentralized digital identity aggregator._
@@ -182,3 +182,4 @@ There are many ambitious projects using Ethereum as a foundation for decentraliz
 
 - [ERC-725 Alliance on GitHub](https://github.com/erc725alliance) — _Supporters of the ERC725 standard for managing identity on the Ethereum blockchain_
 - [SpruceID Discord server](https://discord.com/invite/Sf9tSFzrnt) — _Community for enthusiasts and developers working on Sign-in with Ethereum_
+- [Veramo Labs](https://discord.gg/sYBUXpACh4) — _A community of developers contributing to building a framework for verifiable data for applications_
